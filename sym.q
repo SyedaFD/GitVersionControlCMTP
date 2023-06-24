@@ -1,3 +1,4 @@
+/This is an edit for Step 3
 // schema.q
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
